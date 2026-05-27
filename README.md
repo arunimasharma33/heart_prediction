@@ -24,7 +24,17 @@ heart_disease/
 ├── README.md             # Project documentation
 
 
+## 🧠 Models Trained
 
+During experimentation, the following models were trained and evaluated:
+
+- Logistic Regression
+- Decision Tree
+- KNN
+- Support Vector Machine (SVM)
+- Naive Bayes
+
+### 📊 Model Performance
 
 ## 📸 Screenshots
 
@@ -33,6 +43,9 @@ heart_disease/
 
 2. **Prediction Example (High Risk)**  
    ![High Risk](high_risk.png)
+
+3. **Comparion**
+   ![Models](models.png)
 
 ---
 
