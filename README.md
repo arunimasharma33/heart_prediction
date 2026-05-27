@@ -22,9 +22,7 @@ heart_disease/
 ├── README.md             # Project documentation
 └── screenshots/          # Folder for screenshots
 
-Code
 
----
 
 ## 📸 Screenshots
 
