@@ -22,7 +22,7 @@ heart_disease/
 ├── columns.pkl           # Expected feature columns
 ├── requirements.txt      # Dependencies
 ├── README.md             # Project documentation
-└── screenshots/          # Folder for screenshots
+
 
 
 
@@ -31,13 +31,13 @@ heart_disease/
 👉 Add screenshots inside a `screenshots/` folder and reference them here:
 
 1. **Homepage UI**  
-   ![Homepage](screenshots/homepage.png)
+   ![Homepage](homepage.png)
 
 2. **Prediction Example (Low Risk)**  
-   ![Low Risk](screenshots/low_risk.png)
+   ![Low Risk](low_risk.png)
 
 3. **Prediction Example (High Risk)**  
-   ![High Risk](screenshots/high_risk.png)
+   ![High Risk](high_risk.png)
 
 ---
 
