@@ -3,6 +3,8 @@ A Streamlit web application that predicts the likelihood of heart disease/stroke
 
 Model used: Logistic regression
 Accuracy: 87%
+F1 score: 89%
+
 
 Working link : https://heartprediction-ptawkd92khxsjirumcbq4v.streamlit.app/
 
