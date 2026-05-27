@@ -36,42 +36,43 @@ heart_disease/
 
 ---
 
-## ⚙️ Installation
 
+
+## 🔧 Setup Instructions
 Clone the repository:
+```
 
 git clone https://github.com/<your-username>/heart-stroke-prediction.git
 cd heart-stroke-prediction
-Create a virtual environment:
+```
 
-bash
+
+Create a virtual environment:
+```
 python -m venv .venv
 source .venv/bin/activate   # On Linux/Mac
 .venv\Scripts\activate      # On Windows
+```
+
+
+
 Install dependencies:
-
-
+```
 pip install -r requirements.txt
-▶️ Run the App
+```
 
+
+
+▶️ Run the App:
+```
 streamlit run app.py
-Open your browser at http://localhost:8501.
-
-📦 Requirements
-Add these to requirements.txt:
-
-streamlit
-pandas
-scikit-learn
-joblib
-plotly
+```
 
 
-🧑‍💻 Author
-Your Name
+Open your browser at:  
+http://localhost:8501
 
-GitHub: @arunimasharma33 (github.com in Bing)
+---
 
-
-
-
+## 🧑‍💻 Author
+GitHub: [@arunimasharma33](https://github.com/arunimasharma33)
