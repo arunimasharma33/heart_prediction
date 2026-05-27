@@ -28,15 +28,10 @@ heart_disease/
 
 ## 📸 Screenshots
 
-👉 Add screenshots inside a `screenshots/` folder and reference them here:
-
-1. **Homepage UI**  
-   ![Homepage](homepage.png)
-
-2. **Prediction Example (Low Risk)**  
+1. **Prediction Example (Low Risk)**  
    ![Low Risk](low_risk.png)
 
-3. **Prediction Example (High Risk)**  
+2. **Prediction Example (High Risk)**  
    ![High Risk](high_risk.png)
 
 ---
